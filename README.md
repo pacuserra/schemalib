@@ -59,7 +59,7 @@ Methodology to build a SchemaLib symbol candidate using the open-source [Inkscap
 5. Edit your symbol terminals with snapping to grid
 6. File &rarr; Document Properties &rarr; Grids: rectangular grid 0.1mm &times; 0.1mm
 7. Edit your symbol shape with snapping to grid
-8. If required, insert text labels through Extensions &rarr; Text &rarr; [TexText](https://textext.github.io/textext) with `preamble.tex`
+8. If required, insert text labels through Extensions &rarr; Text &rarr; [TexText](https://textext.github.io/textext) with [`preamble.tex`](preamble.tex)
 9. Select all (`Ctrl+A`) and apply ungroup (`Ctrl+U`) as times as required to flatten hierarchy
 10. Layer &rarr; Layers and Objects (`Shift+Ctrl+L`): select symbol layer, Layer to Group (right click) and ungroup (`Ctrl+U`)
 11. Select all (`Ctrl+A`) and Path &rarr; Object to Path 
