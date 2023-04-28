@@ -2031,4 +2031,4 @@
   </tr>
   </tbody>
 </table>
-__*Note:__ Some web browsers allow direct symbol drag & drop from this listing.
+
