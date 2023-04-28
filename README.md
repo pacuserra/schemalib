@@ -79,7 +79,7 @@ Finally, edit your [SVG](https://en.wikipedia.org/wiki/SVG) code following the s
 
 ## Usage Examples
 
-Some examples of AMS IC schematics based on SchemaLib symbols are available [here](). Contributions are welcome!
+Some examples of AMS IC schematics based on SchemaLib symbols are available [here](examples). Contributions are welcome!
 
 ## History
 
