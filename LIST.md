@@ -2,7 +2,9 @@
 
 ## Circuit Elements
 
-<table>
+<body style="background-color:white;color:black;">
+  
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -84,7 +86,7 @@
 
 ## Analog Devices
 
-<table>
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -534,7 +536,7 @@
 
 ## Analog Circuits
 
-<table>
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -620,7 +622,7 @@
 
 ## Digital Gates: Combinational Logic 
 
-<table>
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -1113,7 +1115,7 @@
 
 ## Digital Gates: Sequential Logic
 
-<table>
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -1886,7 +1888,7 @@
 
 ## Functional Blocks
 
-<table>
+<table style="background-color:lightgrey;color:black;">
   <thead>
   <tr>
     <th>Name</th>
@@ -2031,4 +2033,6 @@
   </tr>
   </tbody>
 </table>
+
+</body>
 
