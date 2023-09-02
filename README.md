@@ -1,6 +1,6 @@
 # SchemaLib
 
-SchemaLib is a library of [SVG](https://en.wikipedia.org/wiki/SVG) symbols for drawing schematics of analog and mixed-signal (AMS) integrated circuits.
+SchemaLib is a library of [SVG](https://en.wikipedia.org/wiki/SVG) symbols for drawing schematics of analog and mixed-signal (AMS) integrated circuits with [Inkscape](https://en.wikipedia.org/wiki/Inkscape).
 
 <center><img src="logo.png" alt= “SchemaLib logo” width="640px" title="SchemaLib logo"></center>
 
